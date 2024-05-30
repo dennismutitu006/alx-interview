@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+"""
+Pascal's Triangle generator
+This module def a fnctn for generation of pascals triangle based on the rows.
+"""
 def pascal_triangle(n):
     """
     Generates Pascal's triangle for a given positive integer n.
@@ -19,3 +24,7 @@ def pascal_triangle(n):
         triangle.append(row)
 
     return triangle
+
+if __name__ == "__main__":
+    # Run the test cases using pytest
+    pytest.main([__file__])
