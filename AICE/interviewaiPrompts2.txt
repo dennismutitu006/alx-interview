@@ -1,0 +1,13 @@
+Crafting tailored reponses
+
+1Structure answer preparation
+“Based on the job description and my resume, help me craft a response to a common interview question using the CARL (Context, Action, Results, Learning) format, focusing on a specific example from my experience. [PASTE JOB DESCRIPTION AND RESUME]”
+
+Usage: Guides you in preparing structured, impactful answers that highlight your achievements and what you’ve learned, directly linking your experiences to the job requirements.
+
+2. Contextual response generation
+
+“Given my background in [SPECIFIC FIELD] and the job requirements for [POSITION], help me develop an answer that effectively showcases my suitability for the role.”
+
+Usage: Focuses on creating personalized responses that highlight how your specific experiences make you an ideal candidate for the position.
+
