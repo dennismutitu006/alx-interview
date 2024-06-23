@@ -1,0 +1,17 @@
+#Potential Interview Questions prompt
+
+1.Industry specific questions
+“Can you suggest some [INDUSTRY-SPECIFIC] questions that I might be asked during my interview for [POSITION OR ROLE], particularly related to [SPECIFIC ASPECT OF JOB OR COMPANY]?”
+
+Usage: Use this prompt to generate questions tailored to the specific industry and role you are applying for, ensuring you are well-prepared for relevant queries.
+
+2. Common  topic questions
+
+“What are some common questions on [TOPIC OR SKILL] that might be asked during an interview for [POSITION OR ROLE], and how can I tailor them to my [SPECIFIC EXPERIENCE OR SKILL SET]?”
+
+Usage: This helps you anticipate questions based on common skills or topics related to the job and think about how to answer them effectively based on your background.
+
+3. Uncovenational questions
+“Can you provide me with some unconventional interview questions for assessing [SPECIFIC SKILL OR TRAIT], and how could these be integrated into the interview?”
+
+Usage: Prepares you for more creative or unexpected questions that assess key skills or traits in unique ways.
