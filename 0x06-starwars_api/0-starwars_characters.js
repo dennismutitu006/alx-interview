@@ -18,8 +18,8 @@ function retrieve (urlChar) {
 
 async function printCharactersFromMovie (movieUrl) {
   try {
-    const movieDat = await retrieve(movieUrl);
-    const characters = JSON.parse(movieDat).characters;
+    const movieData = await retrieve(movieUrl);
+    const characters = JSON.parse(movieData).characters;
 
     for (const characterUrl of characters) {
       const characterData = await retrieve(characterUrl);
@@ -35,7 +35,7 @@ request(url, (err, response, body) => {
   if (err) {
     throw err;
   } else {
-    const movieDat = JSON.parse(body);
-    printCharactersFromMovie(movieDaa.url);
+    const movieData = JSON.parse(body);
+    printCharactersFromMovie(movieData.url);
   }
 });
