@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 '''given a pile of coins of diff values,
 det the fewest no of coins needed to meet a given amount.
 '''
