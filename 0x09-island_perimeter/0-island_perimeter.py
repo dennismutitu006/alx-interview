@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 '''this function will find the perimeter of an island by
 navigating its grids rows and columns.
 '''
