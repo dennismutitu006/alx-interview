@@ -20,11 +20,11 @@ def island_perimeter(grid):
 
     for i in range(r):
         for j in range(c):
-            if grid[i][j] == 1: #  Checks if current cell is land.
+            if grid[i][j] == 1:
                 for x, y in [(0, 1), (1, 0), (-1, 0), (0, -1)]:
                     α, β = i + x, j + y
                     # print(α, β)
-                    if α >= m or β >= n or α < 0 or β < 0 or grid[α][β] == 0:
+                    if α >= r or β >= c or α < 0 or β < 0 or grid[α][β] == 0:
                         perimeter += 1
 
     return perimeter
