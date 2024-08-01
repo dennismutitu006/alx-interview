@@ -2,6 +2,8 @@
 '''this function will find the perimeter of an island by
 navigating its grids rows and columns.
 '''
+
+
 def island_perimeter(grid):
     perimeter = 0
     rows = len(grid)
