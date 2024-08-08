@@ -38,3 +38,7 @@ def isWinner(x, nums):
         return "Ben"
     else:
         return None
+
+
+if __name__ == '__main__':
+    print("Winner:",  isWinner())
